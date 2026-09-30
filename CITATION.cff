@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas estos materiales, por favor cítalos como se indica abajo."
+title: "Materiales de replicación para el análisis de transiciones críticas en el régimen del Reglamento Sanitario Internacional, 2010-2025"
+authors:
+  - family-names: "Santos Domínguez"
+    given-names: "Adela B."
+year: 2026
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/[pendiente]/rsi-transiciones-criticas-replicacion"
